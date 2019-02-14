@@ -1,9 +1,9 @@
-package com.codercocoon.ThreadExamples;
+package javaspringexamples.ThreadExamples;
 
 /**
  * This class presents the different ways to implement threads.
  * 
- * @author contact@codercocoon.com
+ * @author mounir.sahrani@gmail.com
  *
  */
 public class TestThread {
